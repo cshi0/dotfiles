@@ -15,6 +15,7 @@
 - shell:
     - cd ~/.dotfiles
     - git submodule update --init --recursive
+    - git pull --recurse-submodules
     - python3 vim/bundle/YouCompleteMe/install.py
     - vim +PluginInstall +qall
     - git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
