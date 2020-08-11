@@ -10,7 +10,7 @@
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
 [submodule "vim/bundle/Vundle.vim"]
 	path = vim/bundle/Vundle.vim
-	url = git@github.com:VundleVim/Vundle.vim.git
+	url = https://github.com/VundleVim/Vundle.vim.git
 [submodule "vim/bundle/auto-pairs"]
 	path = vim/bundle/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
@@ -23,5 +23,3 @@
 [submodule "vim/bundle/YouCompleteMe"]
 	path = vim/bundle/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
-[submodule "Vundle.vim"]
-	url = https://github.com/VundleVim/Vundle.vim.git
