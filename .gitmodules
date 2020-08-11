@@ -23,3 +23,5 @@
 [submodule "vim/bundle/YouCompleteMe"]
 	path = vim/bundle/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "Vundle.vim"]
+	url = https://github.com/VundleVim/Vundle.vim.git
